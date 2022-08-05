@@ -1,0 +1,30 @@
+.career-comparison {
+    width: 80%;
+    border-collapse: collapse;
+}
+
+.career-comparison-cell {
+    border: 1px solid #b1b1b1;
+    height: 60px;
+    width: 20%;
+    padding-left: 10px;
+    text-align: center;
+    font-size: 20px;
+}
+
+.career-comparison-logo {
+    height: 30px;
+}
+
+.career-comparison-row:nth-child(even) {
+    background-color: lightcyan;
+}
+
+.career-comparison-cell:first-child {
+    text-align: left;
+    font-weight: bold;
+}
+
+.career-comparison-cell:last-child {
+    color: #ff0c1b;
+}
