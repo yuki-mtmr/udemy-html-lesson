@@ -1,0 +1,17 @@
+.headline-2 {
+    font-size: 22px;
+    font-weight: normal;
+    border-bottom: 1px solid #a2a9b1;
+    bargin-bottom: 0;
+}
+
+.headline-3 {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.text {
+    font-size: 15px;
+    margin-top: 7.5px;
+    margin-bottom: 7.5px;
+}
