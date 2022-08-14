@@ -1,0 +1,12 @@
+.footer-links {
+    float: left;
+    list-style: none;
+    padding-left: 0;
+    width: 25%;
+    background-color: salmon;
+    color: #ffffff;
+}
+
+body {
+    margin: 0;
+}

@@ -1,0 +1,33 @@
+.header-menu {
+    display: flex;
+    list-style: none;
+    height: 60px;
+    wigth: 500px;
+    margin: 0 10px 0 auto;
+    padding-left: 0;
+    text-align: center;
+}
+
+.header-menu-item {
+    padding-top: 18px;
+    width: 100px;
+}
+
+.header-menu-link {
+    text-decoreation: none;
+    color: salmon;
+}
+
+.header {
+    display: flex;
+    padding-left: 10px;
+    border-bottom: 1px solid lightgray;
+}
+
+.header-image {
+    height: 60px;
+}
+
+boby {
+    margin: 0;
+}
