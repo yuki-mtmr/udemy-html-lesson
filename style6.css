@@ -1,0 +1,28 @@
+.header {
+    background-color: red;
+    height: 100px;
+}
+
+.outer {
+    background-color: yellow;
+    padding: 10px 15px;
+    display: flex;
+}
+
+.nav {
+    width: 30%;
+    background-color: green;
+    height: 400px;
+}
+
+.main {
+    width: 40%;
+    background-color: blue;
+    height: 400px;
+}
+
+.aside {
+    width: 30%;
+    background-color: gray;
+    height: 400px;
+}
