@@ -1,0 +1,40 @@
+.header {
+    width: 80%;
+    height: 30px;
+    margin: auto;
+}
+
+.parent-ul {
+    display: flex;
+    list-style: none;
+    background-color: gray;
+    text-align: center;
+    color: white;
+    padding-left: 0;
+    height: 100%;
+}
+
+.parent-li {
+    width: 25%;
+    position: relative;
+}
+
+.parent-li:hover {
+    background-color: lightgray;
+}
+
+.parent-li:hover .child-ul {
+    display: block;
+}
+
+.child-ul {
+    width: 100%;
+    padding-left: 0;
+    display: none;
+    list-style: none;
+    background-color: lightgray;
+    position: absolute;
+    top: 30px;
+    left: 0;
+}
+
