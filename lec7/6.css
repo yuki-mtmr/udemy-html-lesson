@@ -1,0 +1,14 @@
+.parent {
+    width: 90%;
+    border: 1px solid black;
+    margin-top: 100px;
+    height: 100px;
+    position: relative;
+}
+
+.image {
+    position: absolute;
+    top: -40px;
+    right: -40px;
+    height: 80px;
+}
